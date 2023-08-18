@@ -1,1 +1,2 @@
 hello
+docker build -t go_tests .
